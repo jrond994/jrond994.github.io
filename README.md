@@ -38,7 +38,34 @@ Each team should pick a published newspaper or online article related to a topic
 
 ### Explanation
 
+```
+BLOCK 4
+BLOCK 4
+BLOCK 4
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BLOCK 4
+BLOCK 4
+BLOCK 4
+BLOCK 4
+BLOCK 4
+BLOCK 4
+```
 
 
 
