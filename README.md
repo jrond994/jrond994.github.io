@@ -1,13 +1,18 @@
 # CEE 598 Homework 6
 
 ## Problem 1
-Create a scientific communication post where you discuss how (a) the emission pricing system or (b) the pollution licenses/permits system for sustainable transportation networks could be implemented in practice. In your team assignment email you should receive whether you are expected to work on (a) or (b).
+Create a scientific communication post where you discuss how the emission pricing system for sustainable transportation networks could be implemented in practice.
 
 ### Discussion
 
 ```
-BLOCK 1
-[@{https://doi.org/10.1073/PNAS.1421723112}]
+Urban environments represent close to 32% of total lane miles in the US [1], but in 2012 (CO<sub>2</sub>) vehicle emissions coming from urban environments represented 62% of total emissions[2]. Urban transportation networks significantly contribute to the aggregate of vehicle emissions, which makes the case for policies aimed at reducing these emissions.<br/>
+<br/>
+To materialize emission pricing in an urban environment, policy has to be enacted setting the pricing scheme and conditions, wheter this is the geographic area where it will apply, rates, types of vehicles included,etc. The implementation of a policy of this kind, like any other, has one very important element to it, which is public acceptance. Without this element, policies of this kind will not be implemented or will not last. This is covered in great detail by [3], who illustrates why as of 2021, less than a dozen cities around the world have succesfully implemented road/zone pricing schemes for urban transportation.
+
+
+
+[Link](https://doi.org/10.1073/PNAS.1421723112)
 
 
 BLOCK 1
@@ -19,15 +24,9 @@ BLOCK 2
 BLOCK 2
 ```
 ```
-BLOCK 3
-BLOCK 3
-BLOCK 3
-BLOCK 3
-BLOCK 3
-BLOCK 3
-BLOCK 3
-BLOCK 3
-BLOCK 3
+References
+[1] https://www.bts.gov/rural
+[2] https://www.pnas.org/content/pnas/112/16/4999.full.pdf
 ```
 
 
