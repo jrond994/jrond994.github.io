@@ -1,3 +1,22 @@
+# CEE 598 Homework 6
+
+## Problem 1
+Create a scientific communication post where you discuss how (a) the emission pricing system or (b) the pollution licenses/permits system for sustainable transportation networks could be implemented in practice. In your team assignment email you should receive whether you are expected to work on (a) or (b).
+
+### Discussion
+
+## Problem 2
+Each team should pick a published newspaper or online article related to a topic discussed in class (indicative articles are provided below) and explain in layperson terms the science behind these phenomena or the science behind proposing an interventions such as pricing schemes.
+
+### Article selected:
+
+### Explanation
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jrond994/jrond994.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
