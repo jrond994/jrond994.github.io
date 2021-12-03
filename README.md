@@ -21,7 +21,7 @@ They key aspect for the application of an emission pricing system remains to be 
 Technical aspects:
 - Surcharge rate
 - Exempted categories
-- Dynamic surcharge versus constant
+- Dynamic surcharge versus constant 
 
 Non technical
 - Information provided about direct benefits (air quality)
