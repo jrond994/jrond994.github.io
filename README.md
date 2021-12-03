@@ -5,6 +5,32 @@ Create a scientific communication post where you discuss how (a) the emission pr
 
 ### Discussion
 
+```
+BLOCK 1
+
+
+
+BLOCK 1
+```
+```
+BLOCK 2
+BLOCK 2
+BLOCK 2
+BLOCK 2
+```
+```
+BLOCK 3
+BLOCK 3
+BLOCK 3
+BLOCK 3
+BLOCK 3
+BLOCK 3
+BLOCK 3
+BLOCK 3
+BLOCK 3
+```
+
+
 ## Problem 2
 Each team should pick a published newspaper or online article related to a topic discussed in class (indicative articles are provided below) and explain in layperson terms the science behind these phenomena or the science behind proposing an interventions such as pricing schemes.
 
